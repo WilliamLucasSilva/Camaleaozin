@@ -76,6 +76,8 @@ main > div{
 
 .produtoDados>img{
     margin: 10px;
+    width: 500px;
+    height: 500px;
 }
 
 .produtoDados>.info{
